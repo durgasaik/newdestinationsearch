@@ -1,0 +1,26 @@
+/* Write your CSS here */
+
+.app-container {
+  display: flex;
+  flex-direction: center;
+  padding: 10px;
+}
+
+.destination-search-container {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  flex-direction: column;
+}
+
+.main-heading {
+  color: #0f172a;
+  font-size: 30px;
+  font-family: 'Open Sans';
+}
+
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f1f5f9;
+}
